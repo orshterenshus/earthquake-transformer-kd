@@ -1,0 +1,27 @@
+================== Overal Info ==============================
+date of report: 2026-05-23 10:47:53.713776
+input_hdf5: C:\Users\Or Shterenshus\Desktop\EQTransformer\ModelsAndSampleData\100samples.hdf5
+input_csv: C:\Users\Or Shterenshus\Desktop\EQTransformer\ModelsAndSampleData\100samples.csv
+input_model: C:\Users\Or Shterenshus\Desktop\EQTransformer\ModelsAndSampleData\EqT_original_model.h5
+output_dir: C:\Users\Or Shterenshus\Desktop\EQTransformer\examples\demo_detections\100samples_outputs
+================== Prediction Parameters =======================
+finished the prediction in:  0 hours and 0 minutes and 12.17 seconds 
+detected: 99 events.
+writting_probability_outputs: False
+loss_types: ['binary_crossentropy', 'binary_crossentropy', 'binary_crossentropy']
+loss_weights: [0.02, 0.4, 0.58]
+batch_size: 100
+================== Other Parameters =========================
+normalization_mode: std
+estimate uncertainty: False
+number of Monte Carlo sampling: 5
+detection_threshold: 0.3
+P_threshold: 0.3
+S_threshold: 0.3
+number_of_plots: 3
+use_multiprocessing: True
+gpuid: None
+gpu_limit: None
+keepPS: False
+allowonlyS: True
+spLimit: 60 seconds
