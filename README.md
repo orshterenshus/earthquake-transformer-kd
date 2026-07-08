@@ -1,4 +1,3 @@
-# earthquake-transformer-kd
 # Compressing the Earthquake Transformer via Knowledge Distillation
 
 **Final Project – Phase A (61998) | Braude College of Engineering**
