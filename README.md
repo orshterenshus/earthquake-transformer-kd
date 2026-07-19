@@ -9,7 +9,7 @@ Project code: 26-2-R-3
 - Or Shterenshus
 - Shiraz Balmas Shterenshus
 
-**Advisors:** Dr. Elena Kramer, Dr. Dan Lemberg
+**Advisors:** Mrs. Elena Kramer, Dr. Dan Lemberg
 
 ## Overview
 This project investigates compressing the **Earthquake Transformer (EQTransformer)**
